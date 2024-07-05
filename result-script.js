@@ -20,9 +20,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     } else {
         alert('Tidak ada data yang ditemukan.');
-        window.location.href = 'search.html';
+        window.location.href = 'index.html';
     }
 });
 setTimeout(function() {
-    window.location.href = 'search.html';
+    window.location.href = 'index.html';
 }, 60000);
