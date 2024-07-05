@@ -1,0 +1,120 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(img/bg\ kampus.jpeg);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #fff;
+    text-align: center;
+    width: 500px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+img{
+    width: 100px;
+}
+.container h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.container h1 {
+    padding-top: 20px;
+}
+
+.container h2 {
+    padding: 20px;
+}
+
+.login-container, .result-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+}
+
+.input-container {
+    margin: 20px;
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #31738d;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: #3a638a;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #31738d;
+    color: white;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Footer Styles */
+footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    /* line-height:50px; */
+    background: #ffffff;
+    color:#fffcfc;
+    /* padding-left: 10px; */
+    opacity: 80%;
+}
+.footer-content {
+    align-items: center;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+footer p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}

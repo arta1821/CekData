@@ -1,0 +1,39 @@
+{
+    "2184202001":{
+        "No": "1",
+        "NIM": "2184202001",
+        "NIK": "1610116508040001",
+        "Nama": "MITA AGUSTINA",
+        "Program Studi": "S1 Pendidikan Matematika",
+        "Status Mahasiswa": "AKTIF",
+        "Jenis Kelamin": "P",
+        "Tempat,Tanggal Lahir": "Palembang, 25 August 2003",
+        "Agama": "Islam",
+        "Alamat": "JL.TEGUR WANGI LAMA"
+    },
+    "2184202002":{
+        "No": "2",
+        "NIM": "2184202002",
+        "NIK": "1672042808010001",
+        "Nama": "REXI GUNAWAN AKBAR",
+        "Program Studi": "S1 Pendidikan Matematika",
+        "Status Mahasiswa": "AKTIF",
+        "Jenis Kelamin": "L",
+        "Tempat,Tanggal Lahir": "PAGAR ALAM, 28 August 2001",
+        "Agama": "Islam",
+        "Alamat": "JL. PENJALANG"
+    },
+    "2184202003":{
+        "No": "3",
+        "NIM": "2184202003",
+        "NIK": "1604065512040001",
+        "Nama": "DINDA ZILIANTI",
+        "Program Studi": "S1 Pendidikan Matematika",
+        "Status Mahasiswa": "Mengundurkan diri",
+        "Jenis Kelamin": "P",
+        "Tempat,Tanggal Lahir": "PENANTIAN,15 DESEMBER 2004, 15 December 2004",
+        "Agama": "Islam",
+        "Alamat": "PENANTIAN"
+    }
+}
+   
